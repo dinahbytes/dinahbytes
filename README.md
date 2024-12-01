@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Dinah!
+- 👀 I’m interested in HCI
+- 🌱 I’m currently learning React Native
+- 💞️ I’m looking to collaborate on digital humanities
+- 📫 How to reach me dinahbytes@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: My grandmother won everything but the showcase on The Price Is Right. I have the speakers, couch, and pool table she won. 
